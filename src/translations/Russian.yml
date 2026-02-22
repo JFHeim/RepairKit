@@ -2,3 +2,6 @@ RepairKit_none: "none"
 item_desc_ItemsRepairKit: "Восстанавливает прочность всех предметов кроме брони на {repairPercent}%."
 item_desc_ArmorRepairKit: "Восстанавливает прочность брони на {repairPercent}%."
 noItemsToRepair: "Нет предметов для ремонта"
+
+item_JF_ItemsRepairKit: "Ремкомплект для предметов"
+item_JF_ArmorRepairKit: "Ремкомплект для брони"

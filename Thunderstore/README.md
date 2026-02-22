@@ -1,4 +1,4 @@
-<img src="Thunderstore/icon.png?raw=true" align="right" alt="Project Logo" style="border-radius: 10px; height: 128px">
+<img src="https://gcdn.thunderstore.io/live/repository/icons/Frogger-RepairKit-0.1.0.png.128x128_q95.png" align="right" alt="Project Logo" style="border-radius: 10px;">
 
 # RepairKit
 
@@ -56,7 +56,7 @@ The mod runs entirely on the client. Server installation is not required, but re
 ### Credits
 
 <img alt="Discord Logo" src="https://freelogopng.com/images/all_img/1691730813discord-icon-png.png" width="16"> Discord — `justafrogger`<br>
-<img alt="Thunderstore Logo" src="https://gcdn.thunderstore.io/live/community/valheim/PNG_color_logo_only_1_transparent.png" width="14"/> <a href="https://valheim.thunderstore.io/package/Frogger/RepairKit/">Mod page</a><br><br>
+<img alt="GitHub Logo" src="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" width="16"/> <a href="https://github.com/JFHeim/RepairKit">Source Code</a><br>
 
 <ins> If something does not work for you, you have found any bugs, there are any suggestions, then be sure to write to me!</ins>
 
@@ -66,6 +66,6 @@ Also, many thanks to Opus 4.6 for the help with writing this text
 
 ## Screenshots
 
-![screenshot 1](Thunderstore/img/screenshot_1.jpeg)<br>
-![screenshot 2](Thunderstore/img/screenshot_2.jpeg)<br>
-![screenshot 3](Thunderstore/img/screenshot_3.jpeg)<br>
+![screenshot 1](https://github.com/JFHeim/RepairKit/blob/main/Thunderstore/img/screenshot_1.jpeg?raw=true)<br>
+![screenshot 2](https://github.com/JFHeim/RepairKit/blob/main/Thunderstore/img/screenshot_2.jpeg?raw=true)<br>
+![screenshot 3](https://github.com/JFHeim/RepairKit/blob/main/Thunderstore/img/screenshot_3.jpeg?raw=true)<br>

@@ -7,7 +7,6 @@
 *.rsuser
 *.suo
 *.user
-*.idea
 *.userosscache
 *.sln.docstates
 
@@ -397,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/.idea
+
+Thunderstore/RepairKit.dll
+/Thunderstore/*.zip
+src/Config/CreateDefaultSnappoints.cs
+build/RepairKit.dll

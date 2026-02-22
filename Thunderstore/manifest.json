@@ -1,0 +1,7 @@
+{
+    "name": "RepairKit",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/JFHeim/RepairKit",
+    "description": "Adds a toolbox item repairing items in your inventory when consumed",
+    "dependencies": ["denikson-BepInExPack_Valheim-5.4.2333"]
+}

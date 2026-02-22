@@ -2,3 +2,6 @@ RepairKit_none: "none"
 item_desc_ItemsRepairKit: "Restores durability of all items except armor on {repairPercent}%."
 item_desc_ArmorRepairKit: "Restores durability of armor on {repairPercent}%."
 noItemsToRepair: "No items to repair"
+
+item_JF_ItemsRepairKit: "Repair kit for items"
+item_JF_ArmorRepairKit: "Repair kit for armor"
