@@ -1,4 +1,4 @@
-<img src="https://gcdn.thunderstore.io/live/repository/icons/Frogger-RepairKit-0.1.0.png.128x128_q95.png" align="right" alt="Project Logo" style="border-radius: 10px;">
+<img src="https://thunderstore.io/thumbnail-serve/repository/icons/Frogger-RepairKit-0.1.1.png/?width=128&height=128" align="right" alt="Project Logo" style="border-radius: 10px;">
 
 # RepairKit
 
